@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "InterlockSwitch_18pinpretty")(type "KiCad")(uri "${KIPRJMOD}/InterlockSwitch_18pinpretty.pretty")(options "")(descr ""))
+  (lib (name "InterlockSwitch_18pin")(type "KiCad")(uri "${KIPRJMOD}/InterlockSwitch_18pin.pretty")(options "")(descr ""))
+)
